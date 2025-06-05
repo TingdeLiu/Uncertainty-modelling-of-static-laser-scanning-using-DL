@@ -1,4 +1,3 @@
-header = """
 <p align="center">
 <h1 align="center"><img src="assets/icon.png" align="center" width="6.5%"><strong>Uncertainty Modelling of Static Laser Scanning Using Deep Learning</strong></h1>
   <p align="center">
