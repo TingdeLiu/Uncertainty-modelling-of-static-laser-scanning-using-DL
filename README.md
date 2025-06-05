@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"><img src="assets/icon.png" align="center" width="6.5%"><strong>Uncertainty Modelling of Static Laser Scanning Using Deep Learning</strong></h1>
+<h1 align="center"><strong>Uncertainty Modelling of Static Laser Scanning Using Deep Learning</strong></h1>
   <p align="center">
     <a href='https://github.com/TingdeLiu/' target='_blank'>Tingde Liu, M. Sc.</a>&emsp;
     <a href='https://www.gih.uni-hannover.de/de/janhartmann/' target='_blank'>Jan Hartmann, M. Sc.</a>&emsp;
