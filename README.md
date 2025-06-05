@@ -95,3 +95,32 @@ The dataset was collected using a **Z+F Imager 5016** laser scanner in a control
    git clone https://github.com/TingdeLiu/Uncertainty-modelling-of-static-laser-scanning-using-DL.git
    cd Uncertainty-modelling-of-static-laser-scanning-using-DL
 
+## 📖 Reference
+
+If you use this project in your work, please cite:
+
+> Liu, T. (2023). _Uncertainty modelling of static laser scanning using deep learning_. Studienarbeit, Leibniz Universität Hannover.
+
+---
+
+## 📬 Contact
+
+For questions or collaborations, feel free to contact:
+
+**Tingde Liu**  
+📧 [tingde.liu.luh@gmail.com](mailto:tingde.liu.luh@gmail.com)  
+🌐 [GitHub Profile](https://github.com/TingdeLiu)
+
+---
+
+## 📎 Acknowledgements
+
+- Supervision: Jan Hartmann, M. Sc. & PD Dr.-Ing. Hamza Alkhatib  
+- Institute: Geodätisches Institut, Leibniz Universität Hannover  
+- Dataset & Support: HiTec Lab, IKG
+
+---
+
+<p align="center">
+  <i>“The key to precision is understanding uncertainty.”</i>
+</p>
