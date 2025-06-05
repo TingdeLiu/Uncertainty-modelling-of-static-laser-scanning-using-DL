@@ -1,7 +1,7 @@
-# 📡 Uncertainty Modelling of Static Laser Scanning Using Deep Learning
+#  Uncertainty Modelling of Static Laser Scanning Using Deep Learning
 
 <p align="center">
-  <strong>Tingde Liu, B. Sc.</strong><br>
+  <strong>Tingde Liu, M. Sc.  Jan Hartmann, M. Sc.</strong><br>
   Gottfried Wilhelm Leibniz Universität Hannover · Geodätisches Institut Hannover
 </p>
 
