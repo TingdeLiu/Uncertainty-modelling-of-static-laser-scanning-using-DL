@@ -4,7 +4,7 @@
     <a href='https://github.com/TingdeLiu/' target='_blank'>Tingde Liu, M. Sc.</a>&emsp;
     <a href='https://www.gih.uni-hannover.de/de/janhartmann/' target='_blank'>Jan Hartmann, M. Sc.</a>&emsp;
     <br>
-    Geodätisches Institut Hannover&emsp;Leibniz Universität Hannover
+    Geodätisches Institut Hannover, Leibniz Universität Hannover
   </p>
 </p>
 
